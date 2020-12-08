@@ -1,5 +1,3 @@
-[13:30] Chevallier Yves
-    
 # Exercice
 - [x] Présentation de l'exercice...
 - [x] Déclarer référentiel GitHub exercice (4min)
